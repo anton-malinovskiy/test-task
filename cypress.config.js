@@ -6,4 +6,5 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
+  supportFile: 'cypress/support/commands.js'
 });
